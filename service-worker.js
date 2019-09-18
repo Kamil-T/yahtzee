@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yahtzee/precache-manifest.a3cd8847deef82e01c554cfd2f10f4dd.js"
+  "/yahtzee/precache-manifest.cf309dd7cdb50b75ec4679cdc0fa04fb.js"
 );
 
 self.addEventListener('message', (event) => {
